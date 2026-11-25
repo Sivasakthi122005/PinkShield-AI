@@ -1,0 +1,7 @@
+{
+  "accuracy": 100.0,
+  "auc_roc": 1.0,
+  "random_split_accuracy": 100.0,
+  "evaluation": "held-out templates",
+  "data": "synthetic (template generated) - NOT real patient notes"
+}
